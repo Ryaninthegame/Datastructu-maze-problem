@@ -5,8 +5,8 @@ Use BFS
     2. maze(start point is (1, 1), end point is (m, n). 1 is an obstacle, 0 is a road)
 * output:
     Shorest path from start point to end
-* exanple:
-  1. input:
+* For example:
+    *  input:
         3 3
         0 1 1
         0 0 0
@@ -16,7 +16,7 @@ Use BFS
         1 1
         2 2
         3 3
-  2. input:
+    * input:
         4 6
         0 1 1 1 1 1
         0 0 1 1 1 1
